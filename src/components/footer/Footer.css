@@ -1,0 +1,16 @@
+.footer-text {
+  text-align: center;
+  color: #868e96 !important;
+  font-family: Inter;
+  font-weight: 500; 
+}
+
+.dark-mode {
+  color: white !important;
+}
+
+.footer-div {
+  margin-top: 2rem;
+  padding-bottom: 1rem;
+  background: white;
+}
